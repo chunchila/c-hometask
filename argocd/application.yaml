@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: git@github.com:chunchila/c-hometask.git
+    repoURL: https://github.com:chunchila/c-hometask.git
     targetRevision: main
     path: k8s
   destination:
